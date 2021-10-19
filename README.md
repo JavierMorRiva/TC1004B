@@ -2,6 +2,3 @@
 
 Super curso de sistemas operativos 
 
-blah bla
-falala
-
